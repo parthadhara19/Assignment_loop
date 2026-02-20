@@ -1,0 +1,16 @@
+2026-02-20 22:58:08,466 - INFO - Counting vowels in the given string
+2026-02-20 22:58:08,467 - INFO - Checking character: s
+2026-02-20 22:58:08,467 - INFO - Checking character: o
+2026-02-20 22:58:08,467 - INFO - Vowel found: o, current count: 1
+2026-02-20 22:58:08,467 - INFO - Checking character: h
+2026-02-20 22:58:08,467 - INFO - Checking character: a
+2026-02-20 22:58:08,467 - INFO - Vowel found: a, current count: 2
+2026-02-20 22:58:08,467 - INFO - Checking character: m
+2026-02-20 22:58:08,467 - INFO - Total vowels found: 2
+2026-02-20 23:25:54,237 - INFO - Counting vowels in the given string
+2026-02-20 23:25:54,245 - INFO - Checking character: d
+2026-02-20 23:25:54,245 - INFO - Checking character: f
+2026-02-20 23:25:54,245 - INFO - Checking character: f
+2026-02-20 23:25:54,245 - INFO - Checking character: e
+2026-02-20 23:25:54,245 - INFO - Vowel found: e, current count: 1
+2026-02-20 23:25:54,245 - INFO - Total vowels found: 1
