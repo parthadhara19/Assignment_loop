@@ -1,0 +1,16 @@
+2026-02-20 23:24:30,475 - INFO - Finding missing number in the list
+2026-02-20 23:24:30,475 - INFO - Expected sum from 1 to 5 is 15
+2026-02-20 23:24:30,475 - INFO - Actual sum of list is 13
+2026-02-20 23:24:30,475 - INFO - Missing number is 2
+2026-02-20 23:33:43,869 - INFO - Finding missing number in the list
+2026-02-20 23:33:43,869 - INFO - Expected sum from 1 to 6 is 21
+2026-02-20 23:33:43,869 - INFO - Actual sum of list is 36
+2026-02-20 23:33:43,869 - INFO - Missing number is -15
+2026-02-20 23:34:12,902 - INFO - Finding missing number in the list
+2026-02-20 23:34:12,902 - INFO - Expected sum from 1 to 5 is 15
+2026-02-20 23:34:12,904 - INFO - Actual sum of list is 23
+2026-02-20 23:34:12,904 - INFO - Missing number is -8
+2026-02-20 23:35:23,726 - INFO - Finding missing number in the list
+2026-02-20 23:35:23,726 - INFO - Expected sum from 1 to 6 is 21
+2026-02-20 23:35:23,726 - INFO - Actual sum of list is 17
+2026-02-20 23:35:23,726 - INFO - Missing number is 4
