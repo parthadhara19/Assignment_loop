@@ -1,0 +1,22 @@
+2026-02-20 23:20:47,177 - INFO - Removing duplicates while preserving order
+2026-02-20 23:20:47,177 - INFO - Adding unique element: 3
+2026-02-20 23:20:47,177 - INFO - Adding unique element: 5
+2026-02-20 23:20:47,177 - INFO - Duplicate found and skipped: 5
+2026-02-20 23:20:47,177 - INFO - Adding unique element: 6
+2026-02-20 23:20:47,177 - INFO - Adding unique element: 88
+2026-02-20 23:20:47,177 - INFO - Adding unique element: 4
+2026-02-20 23:20:47,177 - INFO - Duplicate found and skipped: 4
+2026-02-20 23:20:47,177 - INFO - Duplicate found and skipped: 4
+2026-02-20 23:20:47,177 - INFO - Duplicate found and skipped: 6
+2026-02-20 23:20:47,186 - INFO - Adding unique element: 9
+2026-02-20 23:20:47,186 - INFO - Final list after removing duplicates: [3, 5, 6, 88, 4, 9]
+2026-02-20 23:32:37,396 - INFO - Removing duplicates while preserving order
+2026-02-20 23:32:37,396 - INFO - Adding unique element: 4
+2026-02-20 23:32:37,396 - INFO - Duplicate found and skipped: 4
+2026-02-20 23:32:37,396 - INFO - Adding unique element: 6
+2026-02-20 23:32:37,396 - INFO - Adding unique element: 78
+2026-02-20 23:32:37,396 - INFO - Adding unique element: 76
+2026-02-20 23:32:37,396 - INFO - Adding unique element: 5
+2026-02-20 23:32:37,396 - INFO - Duplicate found and skipped: 5
+2026-02-20 23:32:37,396 - INFO - Duplicate found and skipped: 6
+2026-02-20 23:32:37,396 - INFO - Final list after removing duplicates: [4, 6, 78, 76, 5]
