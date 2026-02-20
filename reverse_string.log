@@ -1,0 +1,15 @@
+2026-02-20 23:17:59,889 - INFO - Reversing the given string
+2026-02-20 23:17:59,889 - INFO - Adding character p to front
+2026-02-20 23:17:59,889 - INFO - Adding character a to front
+2026-02-20 23:17:59,889 - INFO - Adding character r to front
+2026-02-20 23:17:59,889 - INFO - Adding character t to front
+2026-02-20 23:17:59,889 - INFO - Adding character h to front
+2026-02-20 23:17:59,889 - INFO - Adding character a to front
+2026-02-20 23:17:59,889 - INFO - Reversed string is: ahtrap
+2026-02-20 23:31:03,219 - INFO - Reversing the given string
+2026-02-20 23:31:03,219 - INFO - Adding character d to front
+2026-02-20 23:31:03,235 - INFO - Adding character h to front
+2026-02-20 23:31:03,235 - INFO - Adding character a to front
+2026-02-20 23:31:03,235 - INFO - Adding character r to front
+2026-02-20 23:31:03,235 - INFO - Adding character a to front
+2026-02-20 23:31:03,235 - INFO - Reversed string is: arahd
